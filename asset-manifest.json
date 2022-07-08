@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ReactApp5/static/css/main.a79aaa07.css",
+    "main.js": "/ReactApp5/static/js/main.efb47ce4.js",
+    "static/media/logo.svg": "/ReactApp5/static/media/logo.03fb92b888e8a620da73d972953a3564.svg",
+    "index.html": "/ReactApp5/index.html",
+    "main.a79aaa07.css.map": "/ReactApp5/static/css/main.a79aaa07.css.map",
+    "main.efb47ce4.js.map": "/ReactApp5/static/js/main.efb47ce4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a79aaa07.css",
+    "static/js/main.efb47ce4.js"
+  ]
+}
